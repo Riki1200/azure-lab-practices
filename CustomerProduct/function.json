@@ -1,10 +1,10 @@
 {
   "bindings": [
     {
-      "name": "name",
+      "name": "input",
       "type": "activityTrigger",
       "direction": "in"
     }
   ],
-  "scriptFile": "../dist/DurableFn/index.js"
+  "scriptFile": "../dist/CustomerProduct/index.js"
 }
